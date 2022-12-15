@@ -1,0 +1,6 @@
+Plan 
+
+1. npm i to install node_modules and dependencies
+2. tun the test script (npm run test)
+3. work through each failing test until it pass
+4. use VSCode debugger to check codes line by line. 
